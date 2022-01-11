@@ -1,0 +1,9 @@
+{
+  "users": [
+    { "id": "1", "username": "Maria", "password": "1997", "roleid": "1", "img": "https://3.bp.blogspot.com/-MUcpGZ3qB2E/XLjQVt_sIQI/AAAAAAAAIf0/CtNvTHTwj7AWKnV0dacGwet55aX5Umi9QCLcBGAs/s1600/foto%2Btumblr.jpg"},
+    { "id": "2", "username": "Alejandra", "password": "1997", "roleid": "2", "img": "https://2.bp.blogspot.com/-gi8a_Q603Ug/XLjECQCrzWI/AAAAAAAAIeE/hhJECrG8_gAy-BOpn6H6atT3nx8y0-_2QCLcBGAs/s1600/poses%2Btumblr%2Bselfie.jpg"},
+    { "id": "1", "username": "Fernanda", "password": "1990", "roleid": "1", "img": "https://aufloria.com/wp-content/uploads/2021/02/WhatsApp-Image-2021-02-18-at-15.53.25-9.jpeg"},
+    { "id": "1", "username": "Cecilio", "password": "ceci1994", "roleid": "1", "img": "https://i.pinimg.com/736x/46/c9/9d/46c99d13d586bb1e5aa918517c62b7e6.jpg"}
+    
+  ]
+}
